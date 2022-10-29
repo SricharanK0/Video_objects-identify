@@ -1,0 +1,25 @@
+.heading{
+    width:100%;
+    margin-top:0px;
+    font-size:30px;
+}
+#start_button, #number_of_objects, #status{
+    font-size:18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-size: cover;
+}
+#copyright_footer{
+    background-color:grey;
+    position:fixed;
+    width:100%;
+    bottom:0px;
+    font-size:25px;
+    color:white;
+}
+canvas{
+   
+    margin-top:100px;
+    border:2px solid white;
+}
